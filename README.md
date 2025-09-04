@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm a first year at LAB University of Applied Sciences, studying ICT. :)
+My name is Enni Hirvonen and I'm a first year at LAB University of Applied Sciences studying ICT. :)
 
 <!--
 **enniihhirvonen/enniihhirvonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
