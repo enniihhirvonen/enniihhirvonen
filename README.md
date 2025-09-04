@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm currently studying ICT at LAB University of Applied Sciences. :)
+I'm a first year at LAB University of Applied Sciences, studying ICT. :)
 
 <!--
 **enniihhirvonen/enniihhirvonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
