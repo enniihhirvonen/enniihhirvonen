@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+
+I'm currently studying ICT at LAB University of Applied Sciences. :)
 
 <!--
 **enniihhirvonen/enniihhirvonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
